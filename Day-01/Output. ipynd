@@ -1,1 +1,79 @@
-
+b{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "8cf01ffb-4c45-4b7c-90a8-d708d1e1db54",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "============================================================\n",
+      "      AI & ML Internship - Day 1 Environment Setup\n",
+      "============================================================\n",
+      "\n",
+      "System Information\n",
+      "------------------------------------------------------------\n",
+      "Operating System : Windows 11\n",
+      "Machine          : AMD64\n",
+      "Python Version   : 3.13.1\n",
+      "Python Executable: C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python313\\python.exe\n",
+      "\n",
+      "Internship Information\n",
+      "------------------------------------------------------------\n",
+      "Intern Name : Vaishnavi Babanagoud\n",
+      "Company     : Codomax Digital Solutions\n",
+      "Domain      : Artificial Intelligence & Machine Learning\n",
+      "\n",
+      "Development Environment Status\n",
+      "------------------------------------------------------------\n",
+      "Python               : Installed\n",
+      "VS Code              : Installed\n",
+      "Git                  : Installed\n",
+      "Jupyter Notebook     : Installed\n",
+      "\n",
+      "============================================================\n",
+      "Development Environment is Ready!\n",
+      "Ready to start learning AI, ML and Data Science.\n",
+      "Execution Time : 2026-07-24 20:07:21.427750\n",
+      "============================================================\n"
+     ]
+    }
+   ],
+   "source": [
+    "%run environment_check.py"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1dfe7d4e-d38b-4f74-ae2b-65e748146e5c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
