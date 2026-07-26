@@ -1,1 +1,31 @@
 
+===== NUMPY BASICS PROGRAM =====
+
+1. Array Creation
+1D Array: [1 2 3 4 5]
+2D Array:
+ [[1 2 3]
+  [4 5 6]]
+
+2. Array Operations
+Addition: [3 4 5 6 7]
+Multiplication: [ 2  4  6  8 10]
+
+3. Indexing & Slicing
+First element: 1
+Slice (1 to 3): [2 3 4]
+
+4. Reshaping
+Reshaped Array:
+ [[1]
+  [2]
+  [3]
+  [4]
+  [5]]
+
+5. Mathematical Operations
+Sum: 15
+Mean: 3.0
+Max: 5
+
+===== PROGRAM COMPLETED SUCCESSFULLY =====
