@@ -1,22 +1,42 @@
-Day 3 – AI & ML Internship (Codomax Digital Solutions)
-📊 NumPy Basics Program 
- Overview
-This project is part of Day 3 – NumPy Basics of my AI & Machine Learning Internship at Codomax Digital Solutions. It introduces NumPy (Numerical Python), a powerful library used for numerical computations and data analysis in Python.
+📊 NumPy Basics Program  
+🚀 Day 3 – AI & ML Internship (Codomax)
 
- Concepts Covered
-✅ Introduction to NumPy
-✅ Creating Arrays (1D, 2D)
-✅ Array Indexing & Slicing
-✅ Mathematical Operations on Arrays
-✅ Array Functions (mean, sum, max, min)
-✅ Reshaping Arrays
+📌 Overview  
+This project is part of Day 3 – NumPy Basics of my AI & Machine Learning Internship.  
+It focuses on understanding NumPy, a powerful Python library used for numerical computations and data analysis.
 
- Program Description
- This Python script demonstrates:
-1. Creating NumPy arrays using array(), zeros(), ones(), arange()
-2. Performing mathematical operations on arrays
-3. Accessing elements using indexing and slicing
-4. Applying built-in NumPy functions
+🎯 Objective  
+- Learn how to work with arrays in Python  
+- Perform mathematical operations efficiently  
+- Build a strong base for data science and machine learning  
+
+🧠 Concepts Covered  
+✅ Introduction to NumPy  
+✅ Creating Arrays (1D, 2D)  
+✅ Array Indexing and Slicing  
+✅ Mathematical Operations on Arrays  
+✅ Shape and Reshaping  
+✅ Basic Statistical Functions  
+
+💻 Technologies Used  
+- Python  
+- NumPy  
+
+📂 Project Structure  
+Day-03/  
+│  
+├── numpy_basics.py  
+└── README.md  
+
+📈 Outcome  
+Gained hands-on experience with NumPy arrays and operations, which are essential for data analysis and machine learning tasks.
+
+👩‍💻 Author  
+Vaishnavi Babanagoud  
+AI & ML Intern  
+
+🔗 Connect  
+LinkedIn: https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab4. Applying built-in NumPy functions
 5. Reshaping and transforming arrays
 
  File Information
