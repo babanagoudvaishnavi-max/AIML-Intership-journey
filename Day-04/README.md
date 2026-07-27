@@ -17,12 +17,12 @@ This project demonstrates how **Pandas** can be used to efficiently handle, anal
 * 📈 Basic data analysis
 
  💻 Project Features
-🔹 Create and manipulate Series & DataFrames
-🔹 Load real-world datasets
-🔹 Explore and understand dataset structure
-🔹 Filter and extract meaningful insights
-🔹 Clean data by handling missing values
-🔹 Perform basic analysis operations
+🔹 Create and manipulate Series & DataFrames.
+🔹 Load real-world datasets.
+🔹 Explore and understand dataset structure.
+🔹 Filter and extract meaningful insights.
+🔹 Clean data by handling missing values.
+🔹 Perform basic analysis operations.
 
 📁 Project Structure
 ```
@@ -41,26 +41,26 @@ pip install pandas
 ```bash
 python pandas_basics_vaishnavi.py
 ```
+
  📊 Output Preview
-✔️ Generated **Series & DataFrames**
-✔️ Dataset preview using `head()` & `tail()`
-✔️ Data summary using `info()`
-✔️ Filtered dataset results
-✔️ Cleaned dataset after handling missing values
+✔️ Generated Series & DataFrames.
+✔️ Dataset preview using `head()` & `tail()`.
+✔️ Data summary using `info()`.
+✔️ Filtered dataset results.
+✔️ Cleaned dataset after handling missing values.
 
  🎯 Skills Gained
 1. Strong understanding of data handling with Pandas
 2. Ability to create & manipulate datasets
 3. Knowledge of data cleaning & preprocessing
-4. Experience in data analysis using Python
+4. Experience in data Authors using Python
 5 Foundation for Data Science & Machine Learning
 
- ## Acknowledgement
+ Acknowledgement
 Special thanks to Codomax Digital Solutions
 for providing this opportunity to explore and grow in the field of Artificial Intelligence & Machine Learning
 
-## Author
+Author
 Vaishnavi Babanagoud  AI & ML Intern
 🔗 LinkedIn
 https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
-
