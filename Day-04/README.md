@@ -1,62 +1,66 @@
-📊 Pandas Basics Program🚀 Day 4 – AI & ML Internship (Codomax Digital Solutions)
+ 📊 Pandas Basics Program
 
-📌 Overview
-This project is part of Day 4 – Pandas Basics of my AI & Machine Learning Internship at Codomax Digital Solutions.It introduces Pandas, a powerful Python library widely used for data manipulation, analysis, and preprocessing.
+🚀 Day 4 – AI & ML Internship @ Codomax Digital Solutions
 
-🧠 Concepts Covered
-Introduction to Pandas
-1. Creating Series and DataFrames
-2. Reading data from CSV files using read_csv()
-3. Data inspection using head(), tail(), and info()
-4. Data selection and filtering
-5. Handling missing values
-6. Performing basic data analysis
+🌐 Overview
+Welcome to the Pandas Basics Project — a part of my AI & Machine Learning Internship journey.
+This project demonstrates how **Pandas** can be used to efficiently handle, analyze, and preprocess structured data.
 
-💻 Program Description
-This Python program demonstrates:
-1. Creating Pandas Series and DataFrames
-2. Loading datasets using read_csv()
-3. Exploring and understanding data
-4. Filtering and selecting relevant data
-5.Performing basic data analysis operations
+🧠 What You'll Learn
+✨ Core concepts covered in this project:
+* 📌 Introduction to Pandas
+* 📊 Creating **Series & DataFrames**
+* 📂 Reading CSV files using `read_csv()`
+* 🔍 Data inspection (`head()`, `tail()`, `info()`)
+* 🎯 Data filtering & selection
+* 🧹 Handling missing values
+* 📈 Basic data analysis
 
-📂 File Information
-File Name: pandas_basics.py
-Library Used: Pandas 📊
+ 💻 Project Features
+🔹 Create and manipulate Series & DataFrames
+🔹 Load real-world datasets
+🔹 Explore and understand dataset structure
+🔹 Filter and extract meaningful insights
+🔹 Clean data by handling missing values
+🔹 Perform basic analysis operations
 
 📁 Project Structure
+```
 Day-04/
 │
-├── pandas_basics.py
-└── README.md
+├── pandas_basics.py   # Main Python script
+└── README.md          # Project documentation
+```
+ ⚙️ Setup & Execution
+🛠️ Install Dependencies
 
-
-▶️ How to Run
-Step 1: Install Pandas (if not installed)
+```bash
 pip install pandas
-
-Step 2: Run the program
+```
+▶️ Run the Program
+```bash
 python pandas_basics_vaishnavi.py
+```
+ 📊 Output Preview
+✔️ Generated **Series & DataFrames**
+✔️ Dataset preview using `head()` & `tail()`
+✔️ Data summary using `info()`
+✔️ Filtered dataset results
+✔️ Cleaned dataset after handling missing values
 
+ 🎯 Skills Gained
+1. Strong understanding of data handling with Pandas
+2. Ability to create & manipulate datasets
+3. Knowledge of data cleaning & preprocessing
+4. Experience in data analysis using Python
+5 Foundation for Data Science & Machine Learning
 
-📤 Output
-The program will display:
-1. Created Series and DataFrames
-2. Dataset preview using head() and tail()
-3. Data information and summary
-4. Filtered dataset results
-5. Cleaned data after handling missing values
+ ## Acknowledgement
+Special thanks to Codomax Digital Solutions
+for providing this opportunity to explore and grow in the field of Artificial Intelligence & Machine Learning
 
-🎯 Learning Outcomes
-1. Gained a strong understanding of structured data handling using Pandas
-2. Learned how to create and manipulate Series and DataFrames
-3. Developed skills in data cleaning and preprocessing
-4. Understood how to analyze datasets using built-in functions
-5. Built a solid foundation for data analysis, visualization, and machine learning
+## Author
+Vaishnavi Babanagoud  AI & ML Intern
+🔗 LinkedIn
+https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
 
-🙏 Acknowledgement
-I sincerely thank Codomax Digital Solutions for providing this valuable opportunity to enhance my skills in Artificial Intelligence & Machine Learning.
-
-👩‍💻 Author
-Vaishnavi BabanagoudAI & ML Intern
-🔗 LinkedIn:https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
