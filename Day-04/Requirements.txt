@@ -1,0 +1,10 @@
+pandas
+
+# ==================================================
+# Requirements File
+# Project : Pandas Basics
+# Day 4 – AI & ML Internship @ Codomax Digital Solutions
+# Author  : Vaishnavi Babanagoud
+# ==================================================
+
+pandas>=2.0.0
