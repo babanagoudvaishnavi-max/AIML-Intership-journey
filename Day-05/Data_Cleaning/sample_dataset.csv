@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Department,Study_Hours,Score,Salary
+101,Alice,20,CSE,2,65,25000
+102,Bob,21,ECE,4,78,30000
+103,Charlie,,CSE,5,82,35000
+104,David,22,,6,88,40000
+105,Eva,20,EEE,3,70,
+106,Frank,23,ME,7,92,45000
+107,Grace,,CSE,4,80,32000
+108,Henry,21,ECE,5,85,
+109,Ivy,22,CSE,6,90,42000
+109,Ivy,22,CSE,6,90,42000
