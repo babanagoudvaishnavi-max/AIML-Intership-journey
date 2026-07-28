@@ -29,3 +29,11 @@ df = df.drop_duplicates()
 print("\n========== Descriptive Statistics ==========")
 print(df.describe())
 
+# Display cleaned dataset
+print("\n========== Cleaned Dataset ==========")
+print(df)
+
+# Save cleaned dataset
+df.to_csv("cleaned_dataset.csv", index=False)
+
+print("\nCleaned dataset saved successfully!")
