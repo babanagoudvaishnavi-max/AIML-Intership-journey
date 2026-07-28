@@ -1,0 +1,10 @@
+Missing Values
+
+Student_ID    0
+Name          0
+Age           2
+Department    1
+Study_Hours   0
+Score         0
+Salary        2
+dtype: int64
