@@ -1,0 +1,13 @@
+Original Dataset
+
+   Student_ID     Name   Age Department  Study_Hours  Score   Salary
+0         101    Alice  20.0        CSE            2     65  25000.0
+1         102      Bob  21.0        ECE            4     78  30000.0
+2         103  Charlie   NaN        CSE            5     82  35000.0
+3         104    David  22.0        NaN            6     88  40000.0
+4         105      Eva  20.0        EEE            3     70      NaN
+5         106    Frank  23.0         ME            7     92  45000.0
+6         107    Grace   NaN        CSE            4     80  32000.0
+7         108    Henry  21.0        ECE            5     85      NaN
+8         109      Ivy  22.0        CSE            6     90  42000.0
+9         109      Ivy  22.0        CSE            6     90  42000.0
