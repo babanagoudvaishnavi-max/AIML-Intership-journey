@@ -83,33 +83,3 @@ AI & ML Intern @ Codomax Digital Solutions
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
-│── README.md
-│── requirements.txt
-
-🧪 Implementation Details
-
-1. Created a dataset of study hours vs scores
-2. Split data into training and testing sets
-3. Trained a Linear Regression model
-4. Predicted scores based on new input
-5. Compared actual vs predicted values
-
-▶️ How to Run
-
-Step 1: Install Dependencies
-pip install -r requirements.txt
-
-Step 2: Run the Program
-python model_building.py
-
-📊 Sample Output
-
-Actual Scores: [65, 90]
-Predicted Scores: [67.5, 88.2]
-
-👩‍💻 Author
-
-Vaishnavi Babanagoud
-AI & ML Intern @ Codomax Digital Solutions
-
-🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
