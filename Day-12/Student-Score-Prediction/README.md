@@ -91,7 +91,7 @@ Output: Predicted Score ≈ 65
 
 ## 👩‍💻 Author
 Vaishnavi Babanagoud  
-AI & ML Intern – Codomax  
+AI & ML Intern @ Codomax Digital Solutions  
 
 🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab  
 
