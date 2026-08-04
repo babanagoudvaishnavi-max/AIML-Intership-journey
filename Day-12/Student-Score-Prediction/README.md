@@ -85,7 +85,7 @@ Output: Predicted Score ≈ 65
 ## 🚀 Future Improvements
 - Add more features  
 - Use advanced ML models  
-- Build web app  
+- Build web app.  
 
 ---
 
@@ -96,3 +96,4 @@ AI & ML Intern @ Codomax Digital Solutions
 🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab  
 
 ---
+
