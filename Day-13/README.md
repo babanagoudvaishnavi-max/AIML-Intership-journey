@@ -169,6 +169,7 @@ AI & ML Intern @ Codomax Digital Solutions
 ## 🔗 GitHub & LinkedIn
 
 GitHub: https://github.com/babanagoudvaishnavi-max/AIML-Intership-journey.git
+
 LinkedIn: https://www.linkedin.com/in/vaishnavi-babangoud-66a5052ab
 ---
 
